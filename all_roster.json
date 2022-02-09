@@ -1,0 +1,38 @@
+[
+{
+  "name": "Harry Kane",
+  "age": 27,
+  "position": "ST",
+  "transferfee": 45
+},
+{
+  "name": "Erling Haaland",
+  "age": 20,
+  "position": "ST",
+  "transferfee": 40
+},
+{
+  "name": "Youri Tielemens",
+  "age": 23,
+  "position": "CM",
+  "transferfee": 22
+},
+{
+  "name": "Steven De Vrij",
+  "age": 25,
+  "position": "CB",
+  "transferfee": 20
+},
+{
+  "name": "Jude Bellingham",
+  "age": 18,
+  "position": "CM",
+  "transferfee": 30
+},
+{
+  "name": "Declan Rice",
+  "age": 26,
+  "position": "CDM",
+  "transferfee": 24
+}
+]
